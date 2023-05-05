@@ -7,4 +7,6 @@ public class PaymentMethods {
     //Debit Card
 
     //Checks
+
+    //PayPal
 }
